@@ -2,6 +2,6 @@
 
 int main(void)
 {
-printf(" hellow_world\n");
+printf(" hellowworld\n");
 return 1;
 }
